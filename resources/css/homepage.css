@@ -1,0 +1,35 @@
+* {
+    font-family: Helvetica, serif;
+}
+
+.main-header {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("../pattern.webp");
+}
+
+h2 {
+    font-family: Helvetica, serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brushes {
+    background-color: mediumseagreen;
+}
+
+.blue-highlight {
+    font-weight: bold;
+    color: blue;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
